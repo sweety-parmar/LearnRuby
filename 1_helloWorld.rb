@@ -1,0 +1,6 @@
+puts "Hello world !!"
+puts "I am learning ruby."
+puts "It's so much fin to code."
+puts "I am greatful to be an software engineer."
+puts "This will print a string."
+#puts "This is another line."
